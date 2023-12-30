@@ -1,0 +1,64 @@
+.border{
+
+  border: 1px solid purple;
+  width: 30%;
+  border-radius: 20px;
+  margin: 1px;
+  float: left;
+ 
+ 
+  
+}
+h3{
+  text-align: center;
+}
+p{
+  text-align: justify;
+}
+
+
+
+h1{
+
+  color :#bdce29;
+  background-color: #ff1493;
+  height: 80px;
+  width: 75%;
+  }
+  p{
+
+    color: #ff0000;
+    height: 80px;
+    width: 800px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+  #Name{
+  font-size: 100px;
+  color: #bdce29;
+  }
+  .friend
+  {
+  background-color: #000000;
+  }
+  h1.friend{
+  
+  font-size: 60px;
+  }
+  #ai
+  {
+  background-color: #11a13c;
+  }
+  .Love{
+  
+  color: #8400ff;
+  }
+  img{
+    width: 75%;
+  
+  }
+  .blog{
+  
+  background-color: #11a13c;
+  }
